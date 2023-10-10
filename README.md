@@ -2,7 +2,7 @@
 
 <h3>About-me:</h3>
 
-<p>I am starting my studies in C and Rust language. I also like a lot about everything that is related to opensource technologies like linux.</p>
+<p>I am starting my studies in C++,Rust and Java language. I also like a lot about everything that is related to opensource technologies like linux.</p>
 
 <h3>Technologies and tools:</h3> 
 
@@ -11,8 +11,8 @@
 <h3> Statistics: </h3> 
 
 <div>
-<a href="https://github.com/miquerinus">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquerinus&layout=compact&langs_count=7&theme=rose_pine"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquerinus&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miquerinus&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquerinus&layout=compact&theme=tokyonight"/>
 </div>
           
          
